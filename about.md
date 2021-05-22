@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-permalink: "About-me"
+permalink: "About-Me"
 ---
 In this page, I will give a brief introduction of who I am and what I do.
 
