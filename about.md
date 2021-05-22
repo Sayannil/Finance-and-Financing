@@ -1,9 +1,9 @@
-# My Website
-
-
-## Home
-
-Welcome to my website! I am **Sayannil Das**. In this website I will give a brief introduction of who I am and what I do.
+---
+layout: post
+title: About Me
+permalink: "About-me"
+---
+In this page, I will give a brief introduction of who I am and what I do.
 
 
 ### About Me
